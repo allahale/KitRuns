@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title>Kit Runs</title>
+      <meta charset="utf-8">
+      <link rel="stylesheet" href="css/bootstrap.min.css">
+      <!--<link rel="stylesheet" href="css/style.css">-->
+      <link rel="stylesheet" type="text/css" href="css/dc.css"/>
+  </head>
+
+  <body>
+  <!-- page content -->
+    <div class="container-fluid">
+      <h1>
+        A Summary of the Recent Past <small>Kit Runs</small>
+      </h1>
+      <p>
+        My husband, Kit Hale, enjoys running. So he runs. A lot.
+      </p>
+      <p>
+        This is how far he has run since our second child was born.
+      </p>
+    </div>
+
+    <div class="container-fluid">
+      <h3>All of his runs</h3>
+      <div id="overall_runs" class="svg_container"></div>
+    </div>
+
+    <div class="container-fluid">
+      <h3>Interesting!</h3>
+      <p>
+        Well, that's interesting. There are clearly two types of runs he does.
+        He must mix up trail running and road running.
+        Since I can't run even a mile, these all look very long to me.
+        But it seems that he has long runs with lots of elevation gain--those must be on the trail.
+        And then there are those impossibly long and flat runs--those must be on the road or treadmill.
+        And what are those weirdo runs that take him over 30 minutes per mile? Maybe he's hiking with our adorable,
+        but much slower preschooler?
+      </p>
+      <p>
+        Hey, go back and touch or hover over the dots to see what time he's starting these runs.
+        Who wakes up before 5 AM to start running at 6 AM. This guy.
+      </p>
+    </div>
+
+    <div class="container-fluid">
+      <!--<script type="text/javascript" src="header.js"></script>-->
+      <h3>
+        Let's take a deeper look!
+      </h3>
+      <p>Brush on one chart to see the points filtered on the others.</p>
+
+      <div id="scatterChart" class="svg_container"></div>
+      <div id="paceBars" class="svg_container"></div>
+      <div id="time" class="svg_container"></div>
+    </div>
+    <div class="container-fluid">
+      <p>
+        A few insights:
+      </p>
+      <ul>
+        <li>Faster runs are definitely on the road, especially those with pace less than 8 min/mile.</li>
+        <li>The very slow paced "runs" are very short, and happen later in the day. These are hikes with the little one.</li>
+        <li>The ones with medium pace, 8-20 min/mile, are those trail runs. Hills are hard!</li>
+        <li>He has four typical windows in which he runs.</li>
+          <ol>
+            <li>Early morning</li>
+            <li>At lunch during work</li>
+            <li>Immediately after work</li>
+            <li>After the children are asleep. They won't always go to bed so early, will they?</li>
+          </ol>
+        <li>He almost never runs more than 10 miles past noon.</li>
+      </ul>
+    </div>
+
+    <!--Call the standard stuff-->
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/d3.js"></script>
+    <script src="js/crossfilter.js"></script>
+    <script src="js/dc.js"></script>
+    <!--<script src="js/crossfilter.js"></script>-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.js"></script>
+    <!--Call my visuals-->
+    <script src="js/scatterplot.js"></script>
+    <script src="js/viz-4.js"></script>
+
+  </body>
+</html>
