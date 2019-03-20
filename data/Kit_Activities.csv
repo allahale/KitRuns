@@ -1,0 +1,298 @@
+Activity Type,Date,Favorite,Title,Distance,Calories,Avg Run Cadence,Max Run Cadence,Avg Pace,Best Pace,Elev Gain,Elev Loss,Avg Stride Length,Avg Vertical Ratio,Avg Vertical Oscillation,Training Stress Scoreå¨,Grit,Flow,Bottom Time,Min Water Temp,Surface Interval,Decompression
+running,1/24/19 19:11,FALSE,South San Francisco Running,9,947,159,225,9:17,7:26,2377,2372,1.09,0,0,0,0,0,0:00,0,0:00,No
+running,1/23/19 20:15,FALSE,South San Francisco Running,6.5,679,158,225,8:50,6:59,1687,1689,1.15,0,0,0,0,0,0:00,0,0:00,No
+running,1/21/19 17:39,FALSE,South San Francisco Running,10.1,1045,155,235,9:37,7:23,2672,2653,1.08,0,0,0,0,0,0:00,0,0:00,No
+running,1/20/19 8:00,FALSE,San Mateo County Running,19.08,1795,165,243,9:51,6:33,3393,3393,0.99,0,0,0,0,0,0:00,0,0:00,No
+running,1/18/19 18:58,FALSE,South San Francisco Running,5.2,559,165,177,8:54,7:17,1585,1561,1.1,0,0,0,0,0,0:00,0,0:00,No
+running,1/17/19 20:28,FALSE,South San Francisco Running,3.8,405,165,188,8:33,7:11,1035,1048,1.15,0,0,0,0,0,0:00,0,0:00,No
+running,1/17/19 19:07,FALSE,South San Francisco Running,5.2,557,165,181,8:39,7:19,1779,1757,1.13,0,0,0,0,0,0:00,0,0:00,No
+running,1/16/19 7:51,FALSE,South San Francisco Running,6.01,653,167,176,7:37,6:43,13,19,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,1/14/19 20:50,FALSE,South San Francisco Running,8.2,865,160,230,8:55,7:20,2018,2001,1.12,0,0,0,0,0,0:00,0,0:00,No
+running,1/13/19 17:29,FALSE,South San Francisco Running,8.3,881,162,224,9:04,7:18,2023,2017,1.1,0,0,0,0,0,0:00,0,0:00,No
+running,1/12/19 8:00,FALSE,Marin County Running,15.31,1577,161,236,9:25,5:42,3167,3155,1.05,0,0,0,0,0,0:00,0,0:00,No
+running,1/10/19 19:04,FALSE,South San Francisco Running,9.01,959,161,230,8:49,7:00,2529,2535,1.14,0,0,0,0,0,0:00,0,0:00,No
+running,1/9/19 5:01,FALSE,South San Francisco Running,5.2,563,166,179,8:45,7:25,1707,1688,1.11,0,0,0,0,0,0:00,0,0:00,No
+running,1/8/19 7:49,FALSE,South San Francisco Running,4.01,430,169,183,7:17,6:53,43,53,1.31,0,0,0,0,0,0:00,0,0:00,No
+running,1/7/19 18:57,FALSE,South San Francisco Running,8.2,873,162,185,8:30,6:51,2171,2150,1.17,0,0,0,0,0,0:00,0,0:00,No
+running,1/5/19 19:01,FALSE,South San Francisco Running,6.71,715,163,227,8:51,7:03,1714,1701,1.11,0,0,0,0,0,0:00,0,0:00,No
+running,1/4/19 8:28,FALSE,Marin County Running,1.89,150,112,158,54:24:00,18:25,460,460,0.26,0,0,0,0,0,0:00,0,0:00,No
+running,1/3/19 8:15,FALSE,Santa Cruz County Running,20.01,2044,157,240,10:20,7:18,2897,3016,0.99,0,0,0,0,0,0:00,0,0:00,No
+running,1/2/19 7:39,FALSE,South San Francisco Running,6.3,683,169,177,7:23,7:02,64,67,1.29,0,0,0,0,0,0:00,0,0:00,No
+running,12/30/18 6:55,FALSE,South San Francisco Running,16.4,1699,157,241,9:59,7:21,2875,2961,1.02,0,0,0,0,0,0:00,0,0:00,No
+running,12/28/18 5:33,FALSE,South San Francisco Running,6.7,701,163,233,9:34,7:49,1667,1662,1.03,0,0,0,0,0,0:00,0,0:00,No
+running,12/27/18 13:14,FALSE,San Bruno Running,11,1153,159,222,9:50,7:23,2116,2092,1.03,0,0,0,0,0,0:00,0,0:00,No
+running,12/26/18 12:55,FALSE,San Bruno Running,10.01,1041,156,227,9:51,6:57,2147,2113,1.04,0,0,0,0,0,0:00,0,0:00,No
+running,12/26/18 8:36,FALSE,San Mateo Running,1.5,111,119,188,24:56:00,8:51,2,--,0.54,0,0,0,0,0,0:00,0,0:00,No
+running,12/24/18 8:00,FALSE,South San Francisco Running,6.7,707,163,199,8:51,7:13,1655,1636,1.11,0,0,0,0,0,0:00,0,0:00,No
+running,12/23/18 11:39,FALSE,Pacifica Running,10.8,1144,160,243,9:15,6:52,1705,1741,1.08,0,0,0,0,0,0:00,0,0:00,No
+running,12/21/18 12:35,FALSE,South San Francisco Running,14.7,1500,149,225,11:12,6:57,3299,3245,0.95,0,0,0,0,0,0:00,0,0:00,No
+running,12/19/18 11:23,FALSE,South San Francisco Running,5.05,546,165,246,7:25,5:59,36,40,1.31,0,0,0,0,0,0:00,0,0:00,No
+running,12/17/18 18:48,FALSE,South San Francisco Running,5.2,556,162,172,8:47,6:48,1768,1744,1.13,0,0,0,0,0,0:00,0,0:00,No
+running,12/13/18 19:32,FALSE,South San Francisco Running,6.7,710,163,203,8:44,7:06,1651,1645,1.13,0,0,0,0,0,0:00,0,0:00,No
+running,12/12/18 11:43,FALSE,South San Francisco Running,6.2,662,167,181,7:01,6:21,59,66,1.37,0,0,0,0,0,0:00,0,0:00,No
+running,12/10/18 7:52,FALSE,South San Francisco Running,3,321,166,177,6:49,6:30,19,21,1.41,0,0,0,0,0,0:00,0,0:00,No
+running,12/9/18 13:06,FALSE,South San Francisco Running,1.28,99,116,177,49:24:00,15:37,385,347,0.28,0,0,0,0,0,0:00,0,0:00,No
+running,12/1/18 13:23,FALSE,San Bruno Running,1.1,90,120,191,34:45:00,8:10,215,206,0.38,0,0,0,0,0,0:00,0,0:00,No
+running,11/24/18 7:30,FALSE,Mill Valley Running,27.7,2735,146,238,12:55,7:02,8031,8010,0.85,0,0,0,0,0,0:00,0,0:00,No
+running,11/12/18 20:21,FALSE,South San Francisco Running,3.11,334,167,177,7:24,6:34,138,121,1.31,0,0,0,0,0,0:00,0,0:00,No
+running,11/11/18 16:02,FALSE,Mountain View Running,7.07,759,164,175,7:50,7:10,121,112,1.25,0,0,0,0,0,0:00,0,0:00,No
+running,11/8/18 11:39,FALSE,South San Francisco Running,5,541,165,175,7:47,7:25,13,22,1.26,0,0,0,0,0,0:00,0,0:00,No
+running,11/5/18 11:51,FALSE,South San Francisco Running,5.09,553,165,175,7:37,7:16,44,48,1.28,0,0,0,0,0,0:00,0,0:00,No
+running,11/4/18 7:49,FALSE,Pacifica Running,15,1574,162,203,10:13,8:14,2993,3061,0.97,0,0,0,0,0,0:00,0,0:00,No
+running,11/2/18 15:56,FALSE,South San Francisco Running,7.03,730,155,230,10:54,8:13,1558,1539,0.94,0,0,0,0,0,0:00,0,0:00,No
+running,11/1/18 11:45,FALSE,South San Francisco Running,5,544,165,175,7:34,7:00,20,22,1.29,0,0,0,0,0,0:00,0,0:00,No
+running,10/31/18 20:08,FALSE,South San Francisco Running,7.1,743,159,224,9:26,7:47,1950,1919,1.07,0,0,0,0,0,0:00,0,0:00,No
+running,10/29/18 11:38,FALSE,South San Francisco Running,6.01,647,164,175,8:03,6:56,56,45,1.22,0,0,0,0,0,0:00,0,0:00,No
+running,10/28/18 7:45,FALSE,San Mateo County Running,21.24,2132,155,233,11:31,8:09,5103,5148,0.9,0,0,0,0,0,0:00,0,0:00,No
+running,10/26/18 16:02,FALSE,South San Francisco Running,6.22,627,150,221,12:00,8:24,1323,1308,0.89,0,0,0,0,0,0:00,0,0:00,No
+running,10/25/18 19:09,FALSE,South San Francisco Running,7.01,732,157,227,9:11,7:29,1658,1640,1.11,0,0,0,0,0,0:00,0,0:00,No
+running,10/24/18 19:08,FALSE,South San Francisco Running,5.11,544,164,238,8:44,6:43,1402,1437,1.12,0,0,0,0,0,0:00,0,0:00,No
+running,10/24/18 11:48,FALSE,South San Francisco Running,5.6,605,163,172,7:52,7:03,37,38,1.26,0,0,0,0,0,0:00,0,0:00,No
+running,10/23/18 4:55,FALSE,South San Francisco Running,5.2,557,164,175,9:25,7:33,1800,1776,1.04,0,0,0,0,0,0:00,0,0:00,No
+running,10/22/18 16:26,FALSE,South San Francisco Running,6.02,652,164,174,7:35,7:07,47,52,1.3,0,0,0,0,0,0:00,0,0:00,No
+running,10/21/18 7:51,FALSE,South San Francisco Running,3.01,326,166,175,7:48,7:13,128,120,1.24,0,0,0,0,0,0:00,0,0:00,No
+running,10/17/18 19:44,FALSE,South San Francisco Running,3.01,324,162,170,8:12,7:18,953,933,1.21,0,0,0,0,0,0:00,0,0:00,No
+running,10/12/18 16:07,FALSE,South San Francisco Running,5.98,645,163,175,7:33,6:55,81,84,1.31,0,0,0,0,0,0:00,0,0:00,No
+running,10/7/18 8:01,FALSE,Minneapolis Running,26.49,2848,168,183,7:34,5:46,492,484,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,10/6/18 7:06,FALSE,Arden Hills Running,3.05,330,171,191,7:37,6:57,129,115,1.24,0,0,0,0,0,0:00,0,0:00,No
+running,10/3/18 11:50,FALSE,South San Francisco Running,5.05,542,166,191,8:10,7:16,41,51,1.19,0,0,0,0,0,0:00,0,0:00,No
+running,10/1/18 16:32,FALSE,South San Francisco Running,6.01,639,168,185,7:12,6:55,40,47,1.33,0,0,0,0,0,0:00,0,0:00,No
+running,9/30/18 14:20,FALSE,South San Francisco Running,3.48,376,168,238,7:36,6:36,63,183,1.26,0,0,0,0,0,0:00,0,0:00,No
+running,9/29/18 6:39,FALSE,Alameda County Running,23.45,2470,158,224,10:28,7:00,3693,3797,0.97,0,0,0,0,0,0:00,0,0:00,No
+running,9/27/18 19:02,FALSE,South San Francisco Running,8.01,844,164,195,9:18,7:37,2222,2204,1.05,0,0,0,0,0,0:00,0,0:00,No
+running,9/26/18 19:04,FALSE,South San Francisco Running,9.2,985,166,181,8:29,7:21,2737,2723,1.14,0,0,0,0,0,0:00,0,0:00,No
+running,9/24/18 17:56,FALSE,South San Francisco Running,10.1,1079,165,246,8:37,7:00,2240,2216,1.13,0,0,0,0,0,0:00,0,0:00,No
+running,9/23/18 7:56,FALSE,South San Francisco Running,14.11,1517,169,246,7:34,6:12,327,379,1.26,0,0,0,0,0,0:00,0,0:00,No
+running,9/21/18 16:21,FALSE,South San Francisco Running,6.01,645,165,185,7:42,6:46,75,70,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,9/20/18 19:07,FALSE,South San Francisco Running,3.8,404,169,235,7:06,5:54,178,176,1.34,0,0,0,0,0,0:00,0,0:00,No
+running,9/19/18 11:49,FALSE,South San Francisco Running,6.11,660,166,175,7:55,7:12,35,32,1.23,0,0,0,0,0,0:00,0,0:00,No
+running,9/17/18 16:52,FALSE,South San Francisco Running,4.01,429,166,185,8:08,6:47,24,34,1.19,0,0,0,0,0,0:00,0,0:00,No
+running,9/16/18 6:39,FALSE,San Mateo County Running,20,2036,157,238,11:10,7:46,4406,4415,0.92,0,0,0,0,0,0:00,0,0:00,No
+running,9/14/18 19:29,FALSE,South San Francisco Running,3.01,322,168,185,8:24,7:16,953,935,1.14,0,0,0,0,0,0:00,0,0:00,No
+running,9/14/18 7:47,FALSE,South San Francisco Running,4,427,169,197,8:18,6:55,1301,1280,1.15,0,0,0,0,0,0:00,0,0:00,No
+running,9/13/18 19:16,FALSE,South San Francisco Running,3,324,163,175,8:33,7:23,923,910,1.15,0,0,0,0,0,0:00,0,0:00,No
+running,9/13/18 11:52,FALSE,South San Francisco Running,5.01,538,168,178,7:22,6:44,22,26,1.3,0,0,0,0,0,0:00,0,0:00,No
+running,9/12/18 19:21,FALSE,South San Francisco Running,6.03,645,163,237,8:50,7:45,1870,1850,1.12,0,0,0,0,0,0:00,0,0:00,No
+running,9/10/18 16:29,FALSE,South San Francisco Running,8.06,863,164,241,8:23,6:30,1827,1804,1.17,0,0,0,0,0,0:00,0,0:00,No
+running,9/9/18 6:14,FALSE,San Mateo County Running,18.01,1785,157,241,11:02,7:17,3950,3951,0.92,0,0,0,0,0,0:00,0,0:00,No
+running,9/6/18 6:14,FALSE,Verona Running,5.4,577,166,177,8:02,7:34,137,161,1.2,0,0,0,0,0,0:00,0,0:00,No
+running,9/5/18 6:08,FALSE,Verona Running,5.4,573,164,177,8:33,7:53,47,52,1.15,0,0,0,0,0,0:00,0,0:00,No
+running,9/4/18 6:13,FALSE,Verona Running,6.2,655,165,174,8:27,7:41,94,119,1.15,0,0,0,0,0,0:00,0,0:00,No
+running,9/3/18 15:10,FALSE,Verona Running,9.01,949,163,244,7:59,7:02,118,113,1.24,0,0,0,0,0,0:00,0,0:00,No
+running,9/2/18 7:51,FALSE,South San Francisco Running,12.15,1292,166,222,8:50,7:27,2468,2449,1.1,0,0,0,0,0,0:00,0,0:00,No
+running,8/31/18 16:17,FALSE,South San Francisco Running,5.19,561,167,211,8:08,7:32,29,29,1.18,0,0,0,0,0,0:00,0,0:00,No
+running,8/30/18 7:55,FALSE,South San Francisco Running,3.01,321,168,230,8:15,6:10,12,12,1.16,0,0,0,0,0,0:00,0,0:00,No
+running,8/26/18 8:00,FALSE,Contra Costa County Running,31.17,3040,140,238,13:14,5:34,7233,7213,0.85,0,0,0,0,0,0:00,0,0:00,No
+running,8/22/18 19:14,FALSE,South San Francisco Running,2.7,291,166,179,7:34,6:52,125,117,1.28,0,0,0,0,0,0:00,0,0:00,No
+running,8/21/18 7:53,FALSE,South San Francisco Running,3.01,318,172,192,6:52,6:29,29,40,1.36,0,0,0,0,0,0:00,0,0:00,No
+running,8/20/18 16:35,FALSE,South San Francisco Running,4.67,500,164,188,8:12,7:13,80,90,1.2,0,0,0,0,0,0:00,0,0:00,No
+running,8/19/18 14:07,FALSE,South San Francisco Running,10.04,1067,166,177,8:11,7:21,496,499,1.18,0,0,0,0,0,0:00,0,0:00,No
+running,8/16/18 19:07,FALSE,South San Francisco Running,5.16,553,169,177,7:22,6:48,183,181,1.3,0,0,0,0,0,0:00,0,0:00,No
+running,8/15/18 11:48,FALSE,South San Francisco Running,5.09,540,167,179,8:37,7:42,24,35,1.12,0,0,0,0,0,0:00,0,0:00,No
+running,8/12/18 14:01,FALSE,South San Francisco Running,1.72,130,118,237,22:23,12:14,15,14,0.61,0,0,0,0,0,0:00,0,0:00,No
+running,8/12/18 6:12,FALSE,San Mateo County Running,18,1773,153,230,11:39,8:06,4262,4283,0.89,0,0,0,0,0,0:00,0,0:00,No
+running,8/10/18 16:00,FALSE,South San Francisco Running,7.62,784,154,222,10:53,7:06,1786,1741,0.95,0,0,0,0,0,0:00,0,0:00,No
+running,8/9/18 19:13,FALSE,South San Francisco Running,5.2,561,166,237,8:56,7:10,1708,1690,1.09,0,0,0,0,0,0:00,0,0:00,No
+running,8/8/18 19:23,FALSE,South San Francisco Running,7.01,749,166,177,9:35,7:13,1999,1978,1.01,0,0,0,0,0,0:00,0,0:00,No
+running,8/6/18 19:10,FALSE,South San Francisco Running,8.01,839,159,197,9:13,7:11,1713,1700,1.1,0,0,0,0,0,0:00,0,0:00,No
+running,8/5/18 6:11,FALSE,Pacifica Running,14.11,1402,159,222,11:15,7:27,3340,3343,0.9,0,0,0,0,0,0:00,0,0:00,No
+running,8/3/18 19:12,FALSE,South San Francisco Running,6.65,702,164,230,8:51,6:30,1622,1604,1.1,0,0,0,0,0,0:00,0,0:00,No
+running,8/2/18 19:13,FALSE,South San Francisco Running,4.33,467,166,181,8:22,6:48,1368,1350,1.15,0,0,0,0,0,0:00,0,0:00,No
+running,8/1/18 19:10,FALSE,South San Francisco Running,6.21,665,166,185,8:09,6:37,1979,1961,1.19,0,0,0,0,0,0:00,0,0:00,No
+running,7/30/18 18:44,FALSE,South San Francisco Running,8.11,874,164,177,8:53,7:08,2872,2867,1.1,0,0,0,0,0,0:00,0,0:00,No
+running,7/29/18 19:26,FALSE,Arden Hills Running,5.08,548,166,193,7:40,6:29,270,273,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,7/25/18 19:26,FALSE,South San Francisco Running,5.2,559,163,177,9:03,7:19,1605,1577,1.09,0,0,0,0,0,0:00,0,0:00,No
+running,7/24/18 20:15,FALSE,South San Francisco Running,3,323,163,179,8:47,7:03,671,653,1.13,0,0,0,0,0,0:00,0,0:00,No
+running,7/24/18 18:59,FALSE,South San Francisco Running,3.01,322,163,174,8:29,7:02,953,929,1.17,0,0,0,0,0,0:00,0,0:00,No
+running,7/24/18 7:19,FALSE,South San Francisco Running,4,432,166,179,8:32,7:03,1253,1247,1.14,0,0,0,0,0,0:00,0,0:00,No
+running,7/23/18 19:05,FALSE,South San Francisco Running,10.01,1061,164,222,8:46,6:22,2340,2331,1.12,0,0,0,0,0,0:00,0,0:00,No
+running,7/22/18 13:27,FALSE,South San Francisco Running,0.33,30,152,175,17:54,9:18,51,--,0.59,0,0,0,0,0,0:00,0,0:00,No
+running,7/21/18 8:27,FALSE,Marin County Running,11.82,1164,144,237,13:57,8:04,3046,3066,0.8,0,0,0,0,0,0:00,0,0:00,No
+running,7/19/18 19:14,FALSE,South San Francisco Running,6.22,664,162,244,8:46,6:09,1554,1545,1.13,0,0,0,0,0,0:00,0,0:00,No
+running,7/18/18 19:30,FALSE,South San Francisco Running,4.3,461,159,236,8:44,7:27,1370,1352,1.16,0,0,0,0,0,0:00,0,0:00,No
+running,7/17/18 19:02,FALSE,South San Francisco Running,7.02,752,161,176,8:51,7:26,2406,2385,1.12,0,0,0,0,0,0:00,0,0:00,No
+running,7/15/18 6:26,FALSE,Pacifica Running,7.13,675,132,232,15:14,9:18,1756,1712,0.79,0,0,0,0,0,0:00,0,0:00,No
+running,7/13/18 16:12,FALSE,South San Francisco Running,6,606,149,211,12:12,7:50,1511,1499,0.88,0,0,0,0,0,0:00,0,0:00,No
+running,7/11/18 19:05,FALSE,South San Francisco Running,6.2,640,158,238,9:18,7:17,1609,1604,1.09,0,0,0,0,0,0:00,0,0:00,No
+running,7/9/18 18:54,FALSE,South San Francisco Running,3,322,162,172,8:39,7:29,953,948,1.15,0,0,0,0,0,0:00,0,0:00,No
+running,7/5/18 9:32,FALSE,Alpine County Running,2.79,218,108,160,33:22:00,18:33,361,356,0.45,0,0,0,0,0,0:00,0,0:00,No
+running,6/16/18 7:47,FALSE,Lake County Running,26.33,2823,166,185,8:25,7:28,350,465,1.15,0,0,0,0,0,0:00,0,0:00,No
+running,6/15/18 18:01,FALSE,Duluth Running,3.18,341,165,173,7:14,6:07,12,12,1.35,0,0,0,0,0,0:00,0,0:00,No
+running,6/10/18 19:00,FALSE,South San Francisco Running,6.22,673,166,193,7:48,7:10,143,195,1.24,0,0,0,0,0,0:00,0,0:00,No
+running,6/8/18 16:33,FALSE,South San Francisco Running,3.01,326,168,233,7:30,5:30,27,36,1.28,0,0,0,0,0,0:00,0,0:00,No
+running,5/31/18 16:38,FALSE,South San Francisco Running,2.15,227,170,185,7:07,6:36,24,33,1.33,0,0,0,0,0,0:00,0,0:00,No
+running,5/30/18 20:10,FALSE,South San Francisco Running,5.1,547,170,177,7:21,6:37,189,183,1.29,0,0,0,0,0,0:00,0,0:00,No
+running,5/29/18 11:47,FALSE,South San Francisco Running,5.01,534,170,181,7:06,6:29,19,24,1.33,0,0,0,0,0,0:00,0,0:00,No
+running,5/27/18 19:01,FALSE,South San Francisco Running,1.14,122,164,175,7:35,6:59,61,57,1.29,0,0,0,0,0,0:00,0,0:00,No
+running,5/19/18 7:00,FALSE,Marin County Running,49.94,4834,153,240,13:39,7:54,9359,9369,0.77,0,0,0,0,0,0:00,0,0:00,No
+running,5/15/18 7:31,FALSE,South San Francisco Running,2.01,215,170,179,7:04,6:20,9,19,1.34,0,0,0,0,0,0:00,0,0:00,No
+running,5/14/18 7:46,FALSE,South San Francisco Running,3.01,324,166,177,7:19,6:57,14,19,1.33,0,0,0,0,0,0:00,0,0:00,No
+running,5/9/18 11:52,FALSE,South San Francisco Running,5.01,543,164,171,7:51,7:19,27,27,1.25,0,0,0,0,0,0:00,0,0:00,No
+running,5/5/18 8:40,FALSE,South San Francisco Running,17.01,1817,169,193,7:44,6:51,353,352,1.23,0,0,0,0,0,0:00,0,0:00,No
+running,5/3/18 7:32,FALSE,South San Francisco Running,7.05,758,170,181,7:24,6:42,84,61,1.28,0,0,0,0,0,0:00,0,0:00,No
+running,5/2/18 11:48,FALSE,South San Francisco Running,5.02,543,166,175,7:39,5:39,10,20,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,4/29/18 6:41,FALSE,Daly City Running,23.5,2477,160,227,10:15,7:44,3351,3328,0.98,0,0,0,0,0,0:00,0,0:00,No
+running,4/27/18 19:16,FALSE,South San Francisco Running,6.7,712,161,241,8:47,7:12,1648,1643,1.13,0,0,0,0,0,0:00,0,0:00,No
+running,4/26/18 16:35,FALSE,South San Francisco Running,5.01,536,170,181,7:12,6:48,90,90,1.32,0,0,0,0,0,0:00,0,0:00,No
+running,4/26/18 7:18,FALSE,South San Francisco Running,6.68,708,167,219,8:18,6:22,1618,1597,1.16,0,0,0,0,0,0:00,0,0:00,No
+running,4/25/18 11:48,FALSE,South San Francisco Running,5.05,546,166,177,7:37,6:55,42,54,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,4/23/18 19:12,FALSE,South San Francisco Running,6.7,710,164,225,8:12,6:13,1504,1498,1.19,0,0,0,0,0,0:00,0,0:00,No
+running,4/22/18 7:31,FALSE,South San Francisco Running,7.95,845,165,209,8:34,6:54,1645,1630,1.14,0,0,0,0,0,0:00,0,0:00,No
+running,4/20/18 9:12,FALSE,Marin County Running,7.62,600,109,246,28:30:00,9:20,2013,2026,0.52,0,0,0,0,0,0:00,0,0:00,No
+running,4/19/18 7:22,FALSE,South San Francisco Running,8.6,920,169,177,7:12,6:34,78,76,1.33,0,0,0,0,0,0:00,0,0:00,No
+running,4/18/18 11:44,FALSE,South San Francisco Running,5.01,534,161,175,8:20,7:22,20,23,1.2,0,0,0,0,0,0:00,0,0:00,No
+running,4/16/18 19:18,FALSE,South San Francisco Running,6.73,711,162,199,9:05,7:01,1627,1597,1.09,0,0,0,0,0,0:00,0,0:00,No
+running,4/16/18 16:35,FALSE,South San Francisco Running,4.67,493,158,170,8:45,7:49,70,79,1.16,0,0,0,0,0,0:00,0,0:00,No
+running,4/15/18 6:48,FALSE,Woodside Running,29.5,2912,160,222,10:23,7:25,5342,5425,0.93,0,0,0,0,0,0:00,0,0:00,No
+running,4/13/18 16:16,FALSE,South San Francisco Running,6.1,663,164,173,7:33,7:03,34,37,1.3,0,0,0,0,0,0:00,0,0:00,No
+running,4/12/18 19:23,FALSE,South San Francisco Running,6.71,712,164,227,8:17,6:28,1603,1590,1.18,0,0,0,0,0,0:00,0,0:00,No
+running,4/12/18 16:43,FALSE,South San Francisco Running,5.01,537,170,181,7:07,6:37,29,38,1.33,0,0,0,0,0,0:00,0,0:00,No
+running,4/11/18 11:48,FALSE,South San Francisco Running,5.1,544,161,173,8:27,7:13,44,48,1.18,0,0,0,0,0,0:00,0,0:00,No
+running,4/9/18 19:05,FALSE,South San Francisco Running,5.22,561,163,173,8:00,7:19,173,179,1.23,0,0,0,0,0,0:00,0,0:00,No
+running,4/9/18 16:37,FALSE,South San Francisco Running,5.11,551,165,174,7:42,6:58,84,88,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,4/8/18 7:00,FALSE,Woodside Running,20.01,2042,162,236,10:11,7:27,3376,3393,0.97,0,0,0,0,0,0:00,0,0:00,No
+running,4/6/18 16:07,FALSE,South San Francisco Running,7.21,785,165,183,7:49,7:19,96,107,1.25,0,0,0,0,0,0:00,0,0:00,No
+treadmill_running,4/6/18 7:43,FALSE,Treadmill Running,3.53,383,165,235,7:56,5:42,0,--,1.23,0,0,0,0,0,0:00,0,0:00,No
+running,4/5/18 16:28,FALSE,South San Francisco Running,4.01,430,166,177,7:19,6:56,14,11,1.32,0,0,0,0,0,0:00,0,0:00,No
+running,4/5/18 7:32,FALSE,South San Francisco Running,5.13,554,170,177,7:25,6:51,11,14,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,4/4/18 19:19,FALSE,South San Francisco Running,5.32,576,165,175,7:40,7:00,178,181,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,4/2/18 19:06,FALSE,South San Francisco Running,10.11,1096,168,178,7:42,6:46,223,219,1.25,0,0,0,0,0,0:00,0,0:00,No
+running,3/31/18 7:03,FALSE,Woodside Running,16.5,1712,164,240,9:29,5:51,3168,3157,1.03,0,0,0,0,0,0:00,0,0:00,No
+running,3/30/18 19:43,FALSE,South San Francisco Running,6.2,669,165,173,7:52,7:04,172,195,1.24,0,0,0,0,0,0:00,0,0:00,No
+running,3/29/18 7:41,FALSE,South San Francisco Running,6.1,653,170,185,7:12,6:33,57,68,1.32,0,0,0,0,0,0:00,0,0:00,No
+running,3/28/18 11:47,FALSE,South San Francisco Running,6.22,660,170,179,7:00,6:37,62,73,1.35,0,0,0,0,0,0:00,0,0:00,No
+running,3/26/18 7:38,FALSE,South San Francisco Running,5.01,541,171,185,7:25,6:34,50,61,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,3/25/18 7:07,FALSE,Pacifica Running,20.2,2028,162,241,10:49,6:36,4610,4633,0.91,0,0,0,0,0,0:00,0,0:00,No
+running,3/23/18 15:48,FALSE,South San Francisco Running,7.03,760,165,177,7:41,6:37,108,99,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,3/22/18 19:14,FALSE,South San Francisco Running,9.15,980,167,181,7:11,6:17,226,226,1.34,0,0,0,0,0,0:00,0,0:00,No
+running,3/21/18 8:11,FALSE,South San Francisco Running,5.12,552,168,177,7:32,6:47,188,177,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,3/19/18 19:09,FALSE,South San Francisco Running,10.26,1100,166,193,7:47,6:53,278,252,1.25,0,0,0,0,0,0:00,0,0:00,No
+running,3/18/18 7:19,FALSE,Pacifica Running,18.19,1862,161,225,11:00,6:53,4282,4265,0.9,0,0,0,0,0,0:00,0,0:00,No
+running,3/16/18 19:50,FALSE,South San Francisco Running,4.5,474,171,185,7:02,6:09,192,176,1.34,0,0,0,0,0,0:00,0,0:00,No
+running,3/14/18 19:35,FALSE,South San Francisco Running,6.31,678,167,175,7:34,6:36,149,193,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,3/12/18 19:19,FALSE,South San Francisco Running,8.15,875,170,179,7:31,7:02,200,207,1.26,0,0,0,0,0,0:00,0,0:00,No
+running,3/11/18 19:31,FALSE,South San Francisco Running,9.2,992,169,183,7:35,6:44,231,226,1.25,0,0,0,0,0,0:00,0,0:00,No
+running,3/11/18 9:59,FALSE,Pacifica Running,0.56,51,134,173,18:11,2:51,37,37,0.66,0,0,0,0,0,0:00,0,0:00,No
+running,3/11/18 7:23,FALSE,Pacifica Running,13.23,1309,153,206,11:20,6:40,3010,3022,0.92,0,0,0,0,0,0:00,0,0:00,No
+running,3/9/18 15:50,FALSE,San Mateo County Running,4.5,484,158,191,9:39,7:14,788,786,1.05,0,0,0,0,0,0:00,0,0:00,No
+running,3/8/18 19:42,FALSE,South San Francisco Running,3.25,341,164,232,7:41,6:36,77,184,1.28,0,0,0,0,0,0:00,0,0:00,No
+running,3/8/18 7:37,FALSE,South San Francisco Running,5.05,541,169,177,7:17,6:45,24,35,1.31,0,0,0,0,0,0:00,0,0:00,No
+running,3/7/18 11:49,FALSE,South San Francisco Running,5.06,545,164,173,8:03,7:35,10,21,1.22,0,0,0,0,0,0:00,0,0:00,No
+running,3/5/18 16:50,FALSE,South San Francisco Running,3.71,391,169,195,7:23,6:12,179,68,1.29,0,0,0,0,0,0:00,0,0:00,No
+running,3/5/18 7:24,FALSE,South San Francisco Running,5.3,560,172,187,7:43,6:13,313,452,1.21,0,0,0,0,0,0:00,0,0:00,No
+running,3/4/18 5:32,FALSE,South San Francisco Running,24.01,2568,169,183,8:29,6:40,456,477,1.12,0,0,0,0,0,0:00,0,0:00,No
+running,3/2/18 7:48,FALSE,South San Francisco Running,4.01,433,168,177,7:47,7:13,44,51,1.23,0,0,0,0,0,0:00,0,0:00,No
+running,3/1/18 11:50,FALSE,South San Francisco Running,5.01,535,175,231,6:45,6:17,44,53,1.36,0,0,0,0,0,0:00,0,0:00,No
+running,2/28/18 11:45,FALSE,South San Francisco Running,5.01,535,163,185,8:11,7:08,36,41,1.2,0,0,0,0,0,0:00,0,0:00,No
+running,2/26/18 16:37,FALSE,South San Francisco Running,4.46,479,164,177,8:12,7:21,58,58,1.2,0,0,0,0,0,0:00,0,0:00,No
+running,2/25/18 14:00,FALSE,South San Francisco Running,7.6,805,167,246,7:34,4:40,279,425,1.28,0,0,0,0,0,0:00,0,0:00,No
+running,2/25/18 8:36,FALSE,Woodside Running,4.66,394,116,246,24:39:00,6:28,956,933,0.56,0,0,0,0,0,0:00,0,0:00,No
+running,2/23/18 15:40,FALSE,South San Francisco Running,10.01,1068,175,249,7:08,6:24,118,132,1.29,0,0,0,0,0,0:00,0,0:00,No
+running,2/22/18 16:43,FALSE,South San Francisco Running,4.35,467,171,177,7:18,6:41,39,42,1.29,0,0,0,0,0,0:00,0,0:00,No
+running,2/22/18 7:31,FALSE,South San Francisco Running,5.01,536,176,189,7:10,6:28,40,41,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,2/20/18 7:34,FALSE,South San Francisco Running,5.01,538,170,179,7:18,6:53,19,27,1.3,0,0,0,0,0,0:00,0,0:00,No
+running,2/18/18 8:00,FALSE,Pacifica Running,20.88,2171,162,240,10:04,5:29,4593,4626,0.98,0,0,0,0,0,0:00,0,0:00,No
+running,2/14/18 11:47,FALSE,South San Francisco Running,5.01,538,166,173,8:14,7:46,18,24,1.18,0,0,0,0,0,0:00,0,0:00,No
+running,2/10/18 7:15,FALSE,Redwood City Running,12.89,1295,149,243,12:02,7:54,2807,2814,0.88,0,0,0,0,0,0:00,0,0:00,No
+running,2/9/18 7:31,FALSE,South San Francisco Running,4.06,430,162,177,8:55,7:45,32,43,1.12,0,0,0,0,0,0:00,0,0:00,No
+running,2/4/18 11:59,FALSE,South San Francisco Running,3.8,400,172,183,7:10,6:37,63,194,1.31,0,0,0,0,0,0:00,0,0:00,No
+running,2/3/18 13:17,FALSE,Fremont Running,3,231,109,122,30:02:00,17:13,51,49,0.49,0,0,0,0,0,0:00,0,0:00,No
+running,2/3/18 6:03,FALSE,Daly City Running,16.01,1682,166,231,9:29,5:18,2159,2128,1.02,0,0,0,0,0,0:00,0,0:00,No
+running,1/31/18 11:51,FALSE,South San Francisco Running,5.06,545,168,177,7:58,6:50,95,98,1.2,0,0,0,0,0,0:00,0,0:00,No
+running,1/29/18 16:33,FALSE,South San Francisco Running,4.84,516,168,185,8:19,7:34,88,93,1.15,0,0,0,0,0,0:00,0,0:00,No
+running,1/24/18 11:51,FALSE,South San Francisco Running,5.06,539,167,177,8:25,7:34,40,50,1.14,0,0,0,0,0,0:00,0,0:00,No
+running,1/23/18 7:31,FALSE,South San Francisco Running,3.24,349,171,179,7:47,7:18,21,22,1.21,0,0,0,0,0,0:00,0,0:00,No
+running,1/21/18 8:29,FALSE,Redwood City Running,29.87,2917,156,249,12:03,2:43,5113,5108,0.85,0,0,0,0,0,0:00,0,0:00,No
+treadmill_running,1/17/18 8:05,FALSE,Treadmill Running,2.53,270,166,170,8:36,7:53,0,--,1.13,0,0,0,0,0,0:00,0,0:00,No
+running,1/16/18 7:43,FALSE,South San Francisco Running,4.01,433,171,179,7:56,7:26,39,45,1.19,0,0,0,0,0,0:00,0,0:00,No
+running,1/14/18 7:06,FALSE,Pacifica Running,7.14,683,157,233,12:36,8:39,1697,1649,0.81,0,0,0,0,0,0:00,0,0:00,No
+running,1/13/18 9:59,FALSE,Daly City Running,10.05,1078,164,185,9:21,7:04,1402,1396,1.05,0,0,0,0,0,0:00,0,0:00,No
+running,1/11/18 11:54,FALSE,South San Francisco Running,5.03,542,170,178,7:19,6:42,22,36,1.29,0,0,0,0,0,0:00,0,0:00,No
+running,1/10/18 11:42,FALSE,South San Francisco Running,5.07,546,167,175,8:14,7:27,22,33,1.17,0,0,0,0,0,0:00,0,0:00,No
+running,1/9/18 11:56,FALSE,South San Francisco Running,4.89,520,165,181,7:43,6:44,33,37,1.26,0,0,0,0,0,0:00,0,0:00,No
+treadmill_running,1/8/18 7:36,FALSE,Treadmill Running,2.58,274,154,168,8:49,7:42,0,--,1.18,0,0,0,0,0,0:00,0,0:00,No
+running,1/6/18 13:16,FALSE,Daly City Running,3.97,304,112,188,24:39:00,11:53,719,727,0.58,0,0,0,0,0,0:00,0,0:00,No
+running,1/6/18 10:40,FALSE,South San Francisco Running,1.63,122,120,242,18:19,9:47,44,40,0.73,0,0,0,0,0,0:00,0,0:00,No
+treadmill_running,12/31/17 9:16,FALSE,Treadmill Running,6,617,162,183,8:37,7:09,0,--,1.06,0,0,0,0,0,0:00,0,0:00,No
+treadmill_running,12/29/17 19:43,FALSE,Treadmill Running,5.05,543,163,174,8:21,7:18,0,--,1.18,0,0,0,0,0,0:00,0,0:00,No
+running,12/27/17 9:25,FALSE,Saint Paul Running,11.16,1201,172,190,8:15,7:02,268,266,1.14,0,0,0,0,0,0:00,0,0:00,No
+running,12/24/17 10:14,FALSE,Saint Paul Running,12.57,1361,178,193,7:49,6:46,226,196,1.15,0,0,0,0,0,0:00,0,0:00,No
+treadmill_running,12/22/17 7:39,FALSE,Treadmill Running,3.23,349,168,173,8:12,7:14,0,--,1.17,0,0,0,0,0,0:00,0,0:00,No
+treadmill_running,12/21/17 7:35,FALSE,Treadmill Running,5.05,547,171,189,7:56,6:38,0,--,1.19,0,0,0,0,0,0:00,0,0:00,No
+running,12/20/17 11:45,FALSE,South San Francisco Running,6.21,660,181,191,6:50,6:23,33,33,1.3,0,0,0,0,0,0:00,0,0:00,No
+running,12/19/17 7:27,FALSE,South San Francisco Running,5,535,181,197,7:04,5:44,49,54,1.26,0,0,0,0,0,0:00,0,0:00,No
+running,12/13/17 11:53,FALSE,South San Francisco Running,5.04,538,168,177,8:25,8:02,39,44,1.14,0,0,0,0,0,0:00,0,0:00,No
+running,12/12/17 7:29,FALSE,South San Francisco Running,4.17,449,179,195,7:52,6:58,8,9,1.14,0,0,0,0,0,0:00,0,0:00,No
+running,12/10/17 11:36,FALSE,South San Francisco Running,9.8,1060,174,185,7:57,7:09,197,221,1.16,0,0,0,0,0,0:00,0,0:00,No
+running,12/9/17 9:56,FALSE,Daly City Running,22,2317,162,246,10:25,7:07,3007,2984,0.95,0,0,0,0,0,0:00,0,0:00,No
+running,12/5/17 7:21,FALSE,South San Francisco Running,3.36,362,175,185,8:09,7:32,127,123,1.13,0,0,0,0,0,0:00,0,0:00,No
+running,12/3/17 6:58,FALSE,Pacifica Running,13.11,1352,166,213,10:32,7:25,2993,2959,0.92,0,0,0,0,0,0:00,0,0:00,No
+running,12/2/17 12:29,FALSE,South San Francisco Running,15.19,1598,159,230,8:07,6:23,189,192,1.24,0,0,0,0,0,0:00,0,0:00,No
+running,11/30/17 16:20,FALSE,South San Francisco Running,5,535,182,191,6:56,6:14,26,37,1.28,0,0,0,0,0,0:00,0,0:00,No
+running,11/29/17 11:50,FALSE,South San Francisco Running,5.07,542,168,177,8:23,7:47,31,37,1.14,0,0,0,0,0,0:00,0,0:00,No
+running,11/28/17 7:37,FALSE,South San Francisco Running,5.01,532,181,191,7:00,6:09,31,38,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,11/26/17 6:43,FALSE,San Bruno Running,5.06,474,148,249,15:10,9:22,873,831,0.71,0,0,0,0,0,0:00,0,0:00,No
+running,11/25/17 6:58,FALSE,Pacifica Running,22,2219,159,246,11:14,6:44,4458,4494,0.9,0,0,0,0,0,0:00,0,0:00,No
+running,11/23/17 8:07,FALSE,South San Francisco Running,6.01,639,171,246,8:19,7:10,101,160,1.13,0,0,0,0,0,0:00,0,0:00,No
+running,11/22/17 11:58,FALSE,Brisbane Running,5.39,446,129,249,19:30,7:55,1275,1232,0.63,0,0,0,0,0,0:00,0,0:00,No
+running,11/22/17 10:09,FALSE,Daly City Running,6.27,602,143,246,13:15,8:49,340,1009,0.84,0,0,0,0,0,0:00,0,0:00,No
+running,11/22/17 8:16,FALSE,South San Francisco Running,7.1,692,139,250,15:05,7:12,1806,1148,0.76,0,0,0,0,0,0:00,0,0:00,No
+running,11/22/17 7:28,FALSE,South San Francisco Running,3,321,170,183,8:16,7:14,10,143,1.14,0,0,0,0,0,0:00,0,0:00,No
+running,11/21/17 7:30,FALSE,South San Francisco Running,4.42,481,179,189,7:34,7:11,37,37,1.18,0,0,0,0,0,0:00,0,0:00,No
+running,11/20/17 7:40,FALSE,South San Francisco Running,5.01,545,178,185,7:39,7:16,45,50,1.18,0,0,0,0,0,0:00,0,0:00,No
+running,11/18/17 9:02,FALSE,South San Francisco Running,3.07,323,184,199,6:23,5:42,141,159,1.37,0,0,0,0,0,0:00,0,0:00,No
+running,11/18/17 7:25,FALSE,South San Francisco Running,4.43,471,174,187,9:08,7:11,84,192,1.01,0,0,0,0,0,0:00,0,0:00,No
+running,11/16/17 11:55,FALSE,South San Francisco Running,5,535,178,189,7:04,6:32,36,38,1.28,0,0,0,0,0,0:00,0,0:00,No
+running,11/15/17 11:51,FALSE,South San Francisco Running,5.06,545,169,177,8:03,7:29,51,52,1.18,0,0,0,0,0,0:00,0,0:00,No
+running,11/12/17 6:49,FALSE,Redwood City Running,20,2004,161,246,12:28,8:00,3135,3164,0.8,0,0,0,0,0,0:00,0,0:00,No
+running,11/11/17 6:55,FALSE,South San Francisco Running,10.45,1119,175,246,7:57,6:25,393,404,1.16,0,0,0,0,0,0:00,0,0:00,No
+running,11/9/17 7:39,FALSE,South San Francisco Running,6.01,649,178,193,7:19,6:40,50,53,1.24,0,0,0,0,0,0:00,0,0:00,No
+running,11/8/17 11:36,FALSE,South San Francisco Running,5.06,542,169,185,8:17,7:05,29,38,1.15,0,0,0,0,0,0:00,0,0:00,No
+running,11/7/17 7:54,FALSE,South San Francisco Running,4.55,490,178,187,7:24,6:59,55,63,1.22,0,0,0,0,0,0:00,0,0:00,No
+running,11/5/17 7:24,FALSE,South San Francisco Running,9.29,994,178,189,8:03,6:45,625,517,1.12,0,0,0,0,0,0:00,0,0:00,No
+running,11/4/17 8:54,FALSE,South San Francisco Running,13.13,1402,179,191,7:29,6:37,243,296,1.2,0,0,0,0,0,0:00,0,0:00,No
+running,11/2/17 11:51,FALSE,South San Francisco Running,5.03,539,177,187,7:13,6:35,32,37,1.26,0,0,0,0,0,0:00,0,0:00,No
+running,11/1/17 12:08,FALSE,South San Francisco Running,5.06,540,170,197,8:20,7:36,43,55,1.14,0,0,0,0,0,0:00,0,0:00,No
+running,10/31/17 16:14,FALSE,South San Francisco Running,5.04,537,175,187,7:43,7:04,162,193,1.19,0,0,0,0,0,0:00,0,0:00,No
+running,10/29/17 7:20,FALSE,Redwood City Running,20.02,2068,161,240,11:34,7:23,2968,3089,0.86,0,0,0,0,0,0:00,0,0:00,No
+running,10/28/17 5:09,FALSE,South San Francisco Running,10.11,1086,175,188,8:09,7:16,179,226,1.13,0,0,0,0,0,0:00,0,0:00,No
+running,10/27/17 7:32,FALSE,South San Francisco Running,5,536,171,179,8:26,7:44,25,35,1.12,0,0,0,0,0,0:00,0,0:00,No
+running,10/25/17 11:50,FALSE,South San Francisco Running,5.06,542,168,177,8:17,7:40,17,28,1.14,0,0,0,0,0,0:00,0,0:00,No
+running,10/24/17 19:07,FALSE,South San Francisco Running,6.41,688,173,193,7:51,7:03,165,196,1.18,0,0,0,0,0,0:00,0,0:00,No
+running,10/22/17 7:09,FALSE,Half Moon Bay Running,17.12,1717,158,246,11:48,6:51,3771,3787,0.86,0,0,0,0,0,0:00,0,0:00,No
+running,10/19/17 11:51,FALSE,South San Francisco Running,5.02,535,177,189,7:10,6:25,26,43,1.27,0,0,0,0,0,0:00,0,0:00,No
+running,10/18/17 11:53,FALSE,South San Francisco Running,5.03,536,164,175,8:30,7:35,44,44,1.15,0,0,0,0,0,0:00,0,0:00,No
+running,10/14/17 13:48,FALSE,Felton Running,8.72,851,156,228,11:39,8:02,1956,2012,0.88,0,0,0,0,0,0:00,0,0:00,No
+running,10/11/17 19:38,FALSE,South San Francisco Running,5.2,560,168,175,9:05,7:27,1442,1416,1.06,0,0,0,0,0,0:00,0,0:00,No
+running,10/10/17 19:42,FALSE,South San Francisco Running,4.15,439,168,244,8:50,7:40,203,197,1.08,0,0,0,0,0,0:00,0,0:00,No
+running,10/8/17 9:00,FALSE,Los Gatos Running,14.54,1523,161,241,10:08,5:58,1588,3231,0.98,0,0,0,0,0,0:00,0,0:00,No
+running,10/7/17 12:28,FALSE,South San Francisco Running,3.52,370,169,179,7:16,6:17,96,187,1.31,0,0,0,0,0,0:00,0,0:00,No
+running,10/4/17 19:45,FALSE,South San Francisco Running,3.51,374,179,189,7:14,6:28,98,147,1.24,0,0,0,0,0,0:00,0,0:00,No
+running,10/3/17 19:34,FALSE,South San Francisco Running,2.55,272,175,183,7:05,6:32,8,33,1.29,0,0,0,0,0,0:00,0,0:00,No
+running,10/1/17 8:09,FALSE,South San Francisco Running,9.01,960,169,185,8:34,7:02,1147,1241,1.11,0,0,0,0,0,0:00,0,0:00,No
+running,9/30/17 5:20,FALSE,South San Francisco Running,5.1,545,174,185,7:44,7:03,105,132,1.2,0,0,0,0,0,0:00,0,0:00,No
+running,9/28/17 19:46,FALSE,South San Francisco Running,3.61,379,173,185,7:15,6:31,129,182,1.28,0,0,0,0,0,0:00,0,0:00,No
+running,9/24/17 7:46,FALSE,Pacifica Running,13.15,1365,164,240,9:55,6:46,2424,2474,0.99,0,0,0,0,0,0:00,0,0:00,No
+running,9/24/17 7:41,FALSE,Pacifica Running,0.2,21,162,171,9:56,8:29,39,--,1,0,0,0,0,0,0:00,0,0:00,No
+running,9/22/17 19:32,FALSE,South San Francisco Running,6.34,669,176,188,6:57,6:15,147,191,1.31,0,0,0,0,0,0:00,0,0:00,No
+running,9/19/17 17:30,FALSE,South San Francisco Running,6.61,666,159,224,11:05,6:04,1630,1628,0.91,0,0,0,0,0,0:00,0,0:00,No
+running,9/17/17 7:40,FALSE,Pacifica Running,13.2,1369,164,180,10:00,7:03,2667,2633,0.98,0,0,0,0,0,0:00,0,0:00,No
+running,9/16/17 5:10,FALSE,South San Francisco Running,7.01,750,171,180,9:05,7:30,1677,1664,1.03,0,0,0,0,0,0:00,0,0:00,No
+running,9/14/17 19:33,FALSE,South San Francisco Running,4.01,427,168,178,8:33,6:41,1195,1170,1.12,0,0,0,0,0,0:00,0,0:00,No
+running,9/10/17 8:04,FALSE,South San Francisco Running,12.12,1307,173,233,8:44,6:02,1504,1629,1.07,0,0,0,0,0,0:00,0,0:00,No
+running,9/9/17 5:09,FALSE,South San Francisco Running,3.5,375,172,179,8:15,7:34,96,184,1.13,0,0,0,0,0,0:00,0,0:00,No
+running,9/7/17 19:17,FALSE,San Francisco Running,3.58,382,177,195,6:35,5:55,13,13,1.38,0,0,0,0,0,0:00,0,0:00,No
+running,9/6/17 19:30,FALSE,South San Francisco Running,1.59,171,171,179,8:07,7:35,35,30,1.16,0,0,0,0,0,0:00,0,0:00,No
+running,9/3/17 4:26,FALSE,South San Francisco Running,6.01,635,171,185,8:50,7:50,118,251,1.07,0,0,0,0,0,0:00,0,0:00,No
+running,9/2/17 19:14,FALSE,South San Francisco Running,5,532,169,182,8:40,7:18,320,353,1.1,0,0,0,0,0,0:00,0,0:00,No
+running,9/1/17 19:27,FALSE,South San Francisco Running,7.02,753,170,220,8:55,6:10,1034,1030,1.06,0,0,0,0,0,0:00,0,0:00,No
+running,8/31/17 19:34,FALSE,South San Francisco Running,2.02,192,149,224,13:13,7:28,821,798,0.81,0,0,0,0,0,0:00,0,0:00,No
+running,8/29/17 20:58,FALSE,South San Francisco Running,0.6,63,164,229,10:55,7:27,68,--,0.9,0,0,0,0,0,0:00,0,0:00,No
+running,8/29/17 20:35,FALSE,South San Francisco Running,3.16,333,181,193,6:32,6:00,84,188,1.36,0,0,0,0,0,0:00,0,0:00,No
+running,8/27/17 4:20,FALSE,South San Francisco Running,13.17,1398,173,185,9:16,7:29,208,324,1,0,0,0,0,0,0:00,0,0:00,No
+running,8/26/17 19:55,FALSE,South San Francisco Running,5.74,612,170,181,8:35,7:32,189,190,1.1,0,0,0,0,0,0:00,0,0:00,No
+running,8/23/17 19:34,FALSE,South San Francisco Running,6.23,666,173,183,7:17,6:25,117,201,1.28,0,0,0,0,0,0:00,0,0:00,No
+running,8/22/17 20:16,FALSE,South San Francisco Running,3.04,327,176,191,7:06,6:04,30,59,1.28,0,0,0,0,0,0:00,0,0:00,No
+running,8/20/17 15:36,FALSE,South San Francisco Running,9.13,981,169,180,8:33,7:00,523,576,1.11,0,0,0,0,0,0:00,0,0:00,No
+running,8/17/17 19:34,FALSE,South San Francisco Running,0.77,84,169,182,9:14,7:08,77,--,1.03,0,0,0,0,0,0:00,0,0:00,No
+running,8/17/17 19:11,FALSE,South San Francisco Running,3.17,337,178,193,6:43,6:04,65,189,1.35,0,0,0,0,0,0:00,0,0:00,No

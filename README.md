@@ -1,4 +1,6 @@
-# KitRuns
+# Kit Runs
+
+Authors: Alla Hale
 
 My husband, Kit Hale, enjoys running. So he runs. A lot.
 
